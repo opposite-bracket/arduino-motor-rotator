@@ -1,0 +1,2 @@
+
+[Efficient Arduino Programming with Arduino CLI and Visual Studio Code](https://learn.sparkfun.com/tutorials/efficient-arduino-programming-with-arduino-cli-and-visual-studio-code/all#vs-code-for-arduino-library-development)
